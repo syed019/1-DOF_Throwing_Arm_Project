@@ -1,0 +1,4 @@
+Constrained Instances: 'Shaft-1', 'Shaft-1', 'Base-1', 'Base-1'
+Constraint Name: Width1
+Error Details: Constraint is not supported. The constraint has been ignored.
+---------------------------------------------------------------------------------

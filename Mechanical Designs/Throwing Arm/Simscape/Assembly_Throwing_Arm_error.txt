@@ -1,0 +1,8 @@
+Constrained Instances: 'Shaft-1', 'Shaft-1', 'Frame-1', 'Frame-1'
+Constraint Name: Width1
+Error Details: Constraint is not supported. The constraint has been ignored.
+---------------------------------------------------------------------------------
+Constrained Instances: 'Support_TA-2', 'Support_TA-2', 'Frame-1', 'Frame-1'
+Constraint Name: Width5
+Error Details: Constraint is not supported. The constraint has been ignored.
+---------------------------------------------------------------------------------
